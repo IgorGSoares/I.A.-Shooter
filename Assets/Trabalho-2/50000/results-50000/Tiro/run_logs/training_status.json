@@ -1,0 +1,29 @@
+{
+    "Tiro": {
+        "checkpoints": [
+            {
+                "steps": 50001,
+                "file_path": "results\\Tiro\\Tiro\\Tiro-50001.onnx",
+                "reward": 1.0,
+                "creation_time": 1638561060.0759296,
+                "auxillary_file_paths": [
+                    "results\\Tiro\\Tiro\\Tiro-50001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50001,
+            "file_path": "results\\Tiro\\Tiro.onnx",
+            "reward": 1.0,
+            "creation_time": 1638561060.0759296,
+            "auxillary_file_paths": [
+                "results\\Tiro\\Tiro\\Tiro-50001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

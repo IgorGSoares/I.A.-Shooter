@@ -1,0 +1,29 @@
+{
+    "Tiro3_10": {
+        "checkpoints": [
+            {
+                "steps": 100011,
+                "file_path": "results\\Tiro3_10\\Tiro3_10\\Tiro3_10-100011.onnx",
+                "reward": null,
+                "creation_time": 1639164585.117055,
+                "auxillary_file_paths": [
+                    "results\\Tiro3_10\\Tiro3_10\\Tiro3_10-100011.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100011,
+            "file_path": "results\\Tiro3_10\\Tiro3_10.onnx",
+            "reward": null,
+            "creation_time": 1639164585.117055,
+            "auxillary_file_paths": [
+                "results\\Tiro3_10\\Tiro3_10\\Tiro3_10-100011.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
